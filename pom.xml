@@ -11,7 +11,7 @@
 	<groupId>com.tj</groupId>
 	<artifactId>springboot_activemq2</artifactId>
 	<version>0.0.1</version>
-	<name>activemq_springboot2</name>
+	<name>springboot_activemq2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
