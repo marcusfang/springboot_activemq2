@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tj</groupId>
-	<artifactId>activemq_springboot</artifactId>
+	<artifactId>springboot_activemq2</artifactId>
 	<version>0.0.1</version>
 	<name>activemq_springboot2</name>
 	<description>Demo project for Spring Boot</description>
