@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.tj</groupId>
 	<artifactId>activemq_springboot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>activemq_springboot</name>
+	<version>0.0.1</version>
+	<name>activemq_springboot2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
